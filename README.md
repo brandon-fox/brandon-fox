@@ -1,5 +1,7 @@
 # Brandon Fox
 
+> **Status:** Active. A profile page, kept by hand; each project's own README carries its status.
+
 Backend and platform engineer. I build systems where the spec is the truth, the invariants are enforced by CI, and all of it is public. I call the practice Axiom-Driven Engineering: write down what must never break, give each rule a check, run the check on every commit.
 
 Lead Software Engineer at Capital One by day; everything here is personal work, built on my own time.
@@ -12,6 +14,6 @@ Lead Software Engineer at Capital One by day; everything here is personal work, 
 
 [LinkedIn](https://www.linkedin.com/in/brandonlouisfox) · 32090240+brandon-fox@users.noreply.github.com
 
----
+## Independence
 
-All work here is personal and independent of any employer. Views, writing and code are my own.
+Everything on this page and in these repositories is personal work by Brandon Fox, built on my own time and equipment. It is not affiliated with, endorsed by, or derived from the work of any employer, current or former, and does not represent their views, products or practices. Views, writing and code are my own. Principles at [First-ADE/PRINCIPLES.md](https://github.com/First-ADE/.github/blob/main/PRINCIPLES.md).
