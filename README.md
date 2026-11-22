@@ -6,7 +6,7 @@ Lead Software Engineer at Capital One by day. The work below is personal, built 
 
 **Projects**
 
-- [First-ADE](https://github.com/First-ADE) — the method. Nine falsifiable axioms, a validator that runs them, a compliance framework for AI-native code, and a [five-minute quickstart](https://github.com/First-ADE/first-ade/tree/main/examples/quickstart).
+- [First-ADE](https://github.com/brandon-fox/first-ade) — the method. Nine falsifiable axioms, a validator that runs them, a compliance framework for AI-native code, and a [five-minute quickstart](https://github.com/brandon-fox/first-ade/tree/main/examples/quickstart).
 - [alos](https://github.com/brandon-fox/alos) — a local-first autonomous agent runtime, built spec-first: 28 specs, 16 ADRs, Gherkin acceptance files, and a [traceability table](https://github.com/brandon-fox/alos/blob/main/docs/traceability.md) that shows the gaps.
 
 [LinkedIn](https://www.linkedin.com/in/brandonlouisfox) · 32090240+brandon-fox@users.noreply.github.com
